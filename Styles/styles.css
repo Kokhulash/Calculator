@@ -1,0 +1,46 @@
+button{
+    height: 60px;
+    width: 60px;
+    border-radius: 60px;
+    border: none;
+    font-size: 26px;
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+body{
+    background-color: black;
+}
+
+.gray-button{
+    background-color: rgb(51,51,51);
+    color: white;
+}
+
+.clear-button{
+    font-size: 17px;
+}
+
+.calc-button{
+    background-color: rgb(254, 160, 10);
+    color: white;
+}
+
+.js-calculation{
+    color: white;
+    font-size: 45px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-family: Arial, serif;
+}
+
+.calculator{
+    justify-items: center;
+    align-items: center;
+    padding: 50px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
